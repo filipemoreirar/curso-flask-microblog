@@ -1,0 +1,4 @@
+.\venv\scripts\activate
+
+Rodar esse script para ativar o ambiente virtual toda vez que iniciar o VSCode no CMD
+
